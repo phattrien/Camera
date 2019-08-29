@@ -1,36 +1,36 @@
-#CareCam
+# CareCam
 CHĂM SÓC CAM - người hiểu bạn nhất.
 Giám sát video từ xa: Luôn ở gần gia đình bạn.
 Phát hiện chuyển động: Bảo vệ gia đình bạn 24/7.
 Phát lại video HD: Đừng để bạn bỏ lỡ bất kỳ sự kiện nào.
 
-Các tính năng chính:
+# Các tính năng chính:
 Truyền phát trực tiếp HD
 - Giữ hình ảnh rõ ràng sau khi phóng to và video mượt mà.
   Hãy để bạn xem từng chi tiết.
 
-Âm thanh hai chiều
+# Âm thanh hai chiều
 - Bạn có thể nói chuyện với gia đình của bạn bất cứ nơi nào ngay lập tức
    với một cú chạm.
 
-Cảnh báo chuyển động
+# Cảnh báo chuyển động
 - Với dòng thời gian hoạt động và ảnh chụp nhanh, bạn có thể thấy trong nháy mắt
   khi sự kiện xảy ra.
 
-Hỗ trợ nhà / sân khách
+# Hỗ trợ nhà / sân khách
 - Cho phép bạn điều khiển máy ảnh và các phụ kiện của nó chỉ bằng một cú nhấp chuột
   trạng thái Bật / Tắt của thiết bị ở chế độ Trang chủ và Đi vắng.
 
-Chia sẻ máy ảnh
+# Chia sẻ máy ảnh
 - Chia sẻ quyền truy cập máy ảnh cho gia đình của bạn một cách an toàn và có thể kiểm soát.
   Và bạn có thể hủy chia sẻ bất cứ lúc nào.
 
-Lịch sử video
+# Lịch sử video
 - Khi chuyển động được kích hoạt, video sẽ được ghi vào thẻ SD và Chăm sóc
   Đám mây cùng một lúc. Bạn có thể quét qua toàn bộ lịch sử video để xem
   bạn đã bỏ lỡ cái gì. (Ghi âm trên đám mây được bán riêng.)
 
-Phụ kiện mở rộng
+# Phụ kiện mở rộng
 - Hỗ trợ nhiều phụ kiện khác nhau, chẳng hạn như
    cảm biến, bảo vệ toàn diện hơn về sự an toàn của bạn.
 Ứng dụng trên CH Play:    https://play.google.com/store/apps/details?id=com.huiyun.care.viewer.googleplay&hl=vi
