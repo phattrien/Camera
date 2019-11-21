@@ -1,10 +1,10 @@
- DOWNLOAD FILE YOOSEE FIRMWARE
+# DOWNLOAD FILE YOOSEE FIRMWARE
  
 Xem link download bên dưới.
 Danh sách các phiên bản YooSee firmware (hay còn gọi là “sụn” hoặc hệ điều hành của camera YooSee). Bạn có thể tải về để tự thực hiện việc cập nhật “sụn” cho camera YooSee. Các phiên bản trong danh sách dưới đây đều hỗ trợ Onvif kết nối với đầu ghi hình (NVR).
  
  
-Vui lòng đọc thật kỹ các khuyến cáo bên dưới trước khi thực hiện download và cập nhật lại “sụn” cho camera:
+# Vui lòng đọc thật kỹ các khuyến cáo bên dưới trước khi thực hiện download và cập nhật lại “sụn” cho camera:
 
 1.	Chúng tôi không chịu bất cứ trách nhiệm nào, trong mọi trường hợp khi người dùng tải file và cập nhật cho camera dẫn đến camera bị hư hỏng.
 
@@ -24,20 +24,18 @@ Với phiên bản “sụn” có số ban đầu là 13 (vd: 13.00.1.10 hoặc
 Với phiên bản “sụn” có số ban đầu là 21 (vd: 21.00.1.10 hoặc cao hơn): Chúng tôi KHÔNG HỖ TRỢ HẠ SỤN các phiên bản 21.xx.xx.xx
  
  
-PHẦN MỀM IPC-TOOL DÙNG ĐỂ CẬP NHẬT “SỤN”
-YOOSEE FIRMWARE VERSION 14.00.00.77
+# PHẦN MỀM IPC-TOOL DÙNG ĐỂ CẬP NHẬT “SỤN”
+
+# YOOSEE FIRMWARE VERSION 14.00.00.77
 
 Download “YooSee firmware 14.00.00.77” npcupg_gm14.00.00.77.bin – Downloaded 2119 times – 3 MB 
 
 Download “YooSee IPC Tool” YooSeee-IPC-Tool-CCTV-Vietnam.zip – Downloaded 2809 times – 961 KB 
 
-YOOSEE FIRMWARE VERSION 14.00.00.87
+# YOOSEE FIRMWARE VERSION 14.00.00.87
 
 Download “YooSee firmware 14.00.00.87” npcupg14.00.00.87.bin – Downloaded 2755 times – 3 MB 
 
-YOOSEE FIRMWARE VERSION 13.00.00.99
+# YOOSEE FIRMWARE VERSION 13.00.00.99
 
 Download “YooSee firmware 13.00.00.99” npcupg_13.00.00.99.bin – Downloaded 1532 times – 3 MB 
- 
- 
-NẾU BẠN KHÔNG CHẮC CHẮN RẰNG CÓ THỂ THỰC HIỆN THÀNH CÔNG HOẶC MUỐN SỬ DỤNG DỊCH VỤ CẬP NHẬT SỤN CÓ ĐẢM BẢO TỪ CHÚNG TÔI. VUI LÒNG GỬI CAMERA VỀ TRUNG TÂM DỊCH VỤ KHÁCH HÀNG CỦA CAMERA VIỆT NAM. 
