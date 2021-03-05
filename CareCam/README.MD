@@ -3,6 +3,7 @@ CHĂM SÓC CAM - người hiểu bạn nhất.
 Giám sát video từ xa: Luôn ở gần gia đình bạn.
 Phát hiện chuyển động: Bảo vệ gia đình bạn 24/7.
 Phát lại video HD: Đừng để bạn bỏ lỡ bất kỳ sự kiện nào.
+Website hỗ trợ: www.CaReCam.Pro
 
 # Các tính năng chính:
 Truyền phát trực tiếp HD
@@ -48,7 +49,7 @@ Website: https://cuahangcamera.com | www.cuahangcamera.com | www.CửaHàngCamer
 
 # NHÀ PHÂN PHỐI CAMERA 
 Chuyên phân phối camera quan sát
-Điện thoại: 0522 072 073
+Điện thoại: 0931435998
 Email: NhaPhanPhoiCamera@gmail.com
 Website: https://NhaPhanPhoiCamera.net - https://CameraVietNam.org
 
