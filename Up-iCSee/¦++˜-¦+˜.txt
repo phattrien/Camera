@@ -1,3 +1,7 @@
-1£¬°ÑÎÄ¼ş¡°sd_run¡±ºÍ¡°test¡±ÎÄ¼ş¼Ğ·ÅÔÚSD¿¨¸ùÄ¿Â¼
-2£¬SD¿¨²åÈëÉè±¸£¬ÉÏµçµÈ´ıÉè±¸ÉÏ·´ÌáÊ¾¡°Éú²ú²âÊÔÍê³É¡±ºó¶Ïµç°Î¿¨¡£
-3£¬Éı¼¶Íêºó°ÑSD¿¨µÄÄÚÈİÉ¾³ı£¬SD¿¨¿ÉÕı³£´æ´¢Ê¹ÓÃ¡£
+1. Äáº·t cÃ¡c tá»‡p "sd_run" vÃ  "test" trong thÆ° má»¥c gá»‘c cá»§a tháº» SD
+2. Láº¯p tháº» SD vÃ o thiáº¿t bá»‹, báº­t nguá»“n vÃ  Ä‘á»£i thiáº¿t bá»‹ bÃ¡o "Ä‘Ã£ hoÃ n thÃ nh kiá»ƒm tra sáº£n xuáº¥t", sau Ä‘Ã³ táº¯t nguá»“n vÃ  thÃ¡o tháº».
+3. Sau khi nÃ¢ng cáº¥p, xÃ³a ná»™i dung cá»§a tháº» SD, vÃ  tháº» SD cÃ³ thá»ƒ Ä‘Æ°á»£c lÆ°u trá»¯ vÃ  sá»­ dá»¥ng bÃ¬nh thÆ°á»ng.
+-------------------
+1. Put the files "sd_run" and "test" in the root directory of the SD card
+2. Insert the SD card into the device, power on and wait for the device to indicate "production test completed", then power off and remove the card.
+3. After the upgrade, delete the contents of the SD card, and the SD card can be stored and used normally.
