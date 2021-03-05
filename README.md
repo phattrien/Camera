@@ -11,7 +11,7 @@ Website: https://cuahangcamera.com | www.cuahangcamera.com | www.CửaHàngCamer
 
 # NHÀ PHÂN PHỐI CAMERA 
 Chuyên phân phối camera quan sát
-Điện thoại: 0522 072 073
+Điện thoại: 0774 532 516
 Email: NhaPhanPhoiCamera@gmail.com
 Website: https://NhaPhanPhoiCamera.net - https://CameraVietNam.org
 
