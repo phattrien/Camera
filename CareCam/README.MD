@@ -4,6 +4,7 @@ Giám sát video từ xa: Luôn ở gần gia đình bạn.
 Phát hiện chuyển động: Bảo vệ gia đình bạn 24/7.
 Phát lại video HD: Đừng để bạn bỏ lỡ bất kỳ sự kiện nào.
 Website hỗ trợ: www.CaReCam.Pro
+Video hướng dẫn - Hỗ Trợ - Sản Phẩm: https://video.PhátTriển.vn/search/label/CareCam
 
 # Các tính năng chính:
 Truyền phát trực tiếp HD
