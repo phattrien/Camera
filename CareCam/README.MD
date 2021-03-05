@@ -33,9 +33,7 @@ Truyền phát trực tiếp HD
   bạn đã bỏ lỡ cái gì. (Ghi âm trên đám mây được bán riêng.)
 
 # Phụ kiện mở rộng
-- Hỗ trợ nhiều phụ kiện khác nhau, chẳng hạn như
-   cảm biến, bảo vệ toàn diện hơn về sự an toàn của bạn.
-Ứng dụng trên CH Play:    https://play.google.com/store/apps/details?id=com.huiyun.care.viewer.googleplay&hl=vi
+- Hỗ trợ nhiều phụ kiện khác nhau, chẳng hạn như cảm biến, bảo vệ toàn diện hơn về sự an toàn của bạn. 
    
 # Camera quan sát CCTV
  Camera IP WiFi, Camera IP, Camera CVI, Camera AHD, Camera Analog, Đầu ghi Camera, Bộ camera quan sát, Phụ kiện camera,...
@@ -43,21 +41,35 @@ Truyền phát trực tiếp HD
 
 # CỬA HÀNG CAMERA 
 Địa chỉ: 104/1 QL 13 cũ, P.Hiệp Bình Phước, Thủ Đức, HCM
-Điện thoại: 0931 435 998 Zalo: WinTech
+
+Điện thoại: 0931 435 998 
+
+Zalo: https://zalo.me/WinTech
+
 Email: kinhdoanh@cuahangcamera.com
+
 Website: https://cuahangcamera.com | www.cuahangcamera.com | www.CửaHàngCamera.vn
 
 
 # NHÀ PHÂN PHỐI CAMERA 
 Chuyên phân phối camera quan sát
+
 Điện thoại: 0931435998
+
 Email: NhaPhanPhoiCamera@gmail.com
+
 Website: https://NhaPhanPhoiCamera.net - https://CameraVietNam.org
 
 
 # WINTECH VIỆT NAM 
 Địa chỉ: Đường Mỹ Phước - Tân Vạn, KP.1, P. Phú Mỹ, TP.TDM
-Tp.HCM: 104/1 QL 13 cũ, P.Hiệp Bình Phước, Q.Thủ Đức
+
+Tp.HCM: 104/1 QL 13 cũ, P.Hiệp Bình Phước, TP.Thủ Đức
+
 Hotline: 0931 435 998
+
+Zalo: https://zalo.me/WinTech 
+
 Email: info@wintech.vip 
+
 Website: www.WinTech.VIP
